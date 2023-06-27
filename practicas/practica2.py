@@ -7,8 +7,7 @@ Nombre: Alfredo
 Apellido: Altamirano
 Edad: 36
 
-output
-Hola Alfredo Altamirano, naciste en 1986
+output -> Hola Alfredo Altamirano, naciste en 1986
 """
 print("\n")
 print("Práctica 2 En que año naciste")
