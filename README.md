@@ -1,5 +1,4 @@
 # Módulo 3 Introducción Python
-
 ---
 
 ### Prácticas
@@ -32,7 +31,7 @@ output
 Hola Manuel Trejo, naciste en 1996
 ~~~
 
-3. Escribe un script que calcule el área de un círculo basado en el radio proporcionado por el usuario e imprima el resultado. 
+3. Escribe un script que calcule el área de un círculo basado en el radio proporcionado por el usuario e imprima el resultado.
 4. Escribe un script que solicite un número (n) y calcule el valor de n + nn + nnn
 5. Escribe un script que solicite un número y devuelva notifique al usuario si el número es par o impar
 6. Escribe un script que solicite la base y la altura de un triángulo, calcule su área e imprima el resultado
