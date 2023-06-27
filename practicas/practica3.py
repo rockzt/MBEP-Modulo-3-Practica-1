@@ -3,5 +3,5 @@ print("\n")
 print("Práctica 3 Área del Circulo")
 radio = float(input("Dame el valor del radio en cm: "))
 pi = 3.14
-area = pi*radio**2
+area = pi * radio**2
 print("Área: ", area)
