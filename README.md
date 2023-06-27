@@ -3,6 +3,7 @@
 ### Prácticas
 
 1. Escribe un script que imprima las primeras estrofas de la canción de la víbora de la mar con el siguiente formato:
+
 ~~~
 A la víbora, víbora
 	De la mar, de la mar
