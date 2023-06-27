@@ -12,8 +12,8 @@ Hola Alfredo Altamirano, naciste en 1986
 '''
 print("\n")
 print("Práctica 2 En que año naciste")
-año=2023
-nombre=input("Nombre: ")
-apellido=input("Apellido: ")
-edad=input("Edad: ")
-print("Hola", nombre+ " " + apellido, "naciste en el año: ", año-int(edad))
+año = 2023
+nombre = input("Nombre: ")
+apellido = input("Apellido: ")
+edad = input("Edad: ")
+print("Hola", nombre + " " + apellido, "naciste en el año: ", año-int(edad))
