@@ -4,7 +4,7 @@ print("Práctica 5 Es par o impar")
 es_numerico = False
 
 while not es_numerico:
-    numero = input('Ingresa un número: ')
+    numero = input("Ingresa un número: ")
     es_numerico = numero.isnumeric()
 
 mod = int(numero) % 2
